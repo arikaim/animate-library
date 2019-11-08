@@ -1,0 +1,12 @@
+{
+    "title": "Animate",
+    "package-type": "library",
+    "name": "animate",
+    "version": "3.7.1",
+    "description": "Animate.css cross-browser animations css library",
+    "repository": "https://github.com/arikaim/animate-library.git",
+    "help": "https://github.com/daneden/animate.css",
+    "files": [
+        "animate.min.css"
+    ]
+}
